@@ -1,0 +1,1 @@
+README:1. Download Part 1 and navigate into the folder2. Run the following :a. spark-submit —class “mostTalked” topmodelling-project_2.11-0.1.jar data.csv resultsNote : data.csv is the cleaned data from data pre-processing and results is where the output which is the top talked topics get stored.

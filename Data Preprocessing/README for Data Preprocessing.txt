@@ -1,0 +1,1 @@
+README for Data Preprocessing :1. Open your terminal and navigate into the folder named Data Preprocessing2. Run the following :a. python preprocess.py all-the-news/articles1.csv results Note : all-the-news/articles1.csv can be downloaded from https://www.kaggle.com/snapcrack/all-the-news/data and results is the folder where the cleaned dataset gets stored.
